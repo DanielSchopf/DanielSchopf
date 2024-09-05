@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielschopf" alt="danielschopf" /></a> </p>
 
 - 📫 How to reach me **danielschopf04@gmail.com**
--  Acesse o meu portfolio online **https://danielschopf.github.io/portfolio-pessoal/**
+- 👨‍💻 My portfolio **https://danielschopf.github.io/portfolio-pessoal/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
